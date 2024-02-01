@@ -70,6 +70,7 @@ Before running the script, ensure Notepad++ is open with a blank document focuse
 - The script is optimized for a specific workflow with TRM Forensic's Blockchain Explorer 'Related IP' data and Notepad++. Adjustments may be needed for other applications or websites.
 
 ## Video Walkthrough
-![Uploading 233303_01022024.gif…]()
+![233303_01022024](https://github.com/maccheroncelli/TRM-TABLE-DATA/assets/154501937/94567e35-94aa-4ec0-85d6-ec771f9c79fc)
+
 
 ---
