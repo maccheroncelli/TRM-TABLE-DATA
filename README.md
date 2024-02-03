@@ -1,12 +1,8 @@
 ---
 
-# TRM Table Data Harvester
+# Table Data Harvester
 
-This Python script automates the process of copying 'Related IP' data found in TRM Forensic when reviewing a blockchain address in 'Blockchain Explorer'. It utilizes PyQt5 for the GUI, allowing users to specify coordinates for data selection and automatically pastes the extracted information into Notepad++.
-
-## Description
-
-The TRM Forensic Data Harvester is designed to streamline the workflow of cybersecurity and blockchain analysts by automating the tedious task of data extraction from blockchain explorers. It focuses on efficiently capturing 'Related IP' data and ensuring the data is accurately documented for further analysis.
+This Python script automates the process of harvesting data from 'dynamic' tables found on websites. This script is designed to streamline the workflow of blockchain analysts by automating the tedious task of data extraction from tables.
 
 ## Installation Instructions
 
@@ -31,7 +27,6 @@ The TRM Forensic Data Harvester is designed to streamline the workflow of cybers
 3. **Download the Script**: Download the script directly.
 
 4. **Install Notepad++**: Download from https://notepad-plus-plus.org/downloads/
-
 
 ## Usage
 
@@ -69,8 +64,3 @@ Before running the script, ensure Notepad++ is open with a blank document focuse
 - Ensure a blank document is open in Notepad++ and in focus before starting the script.
 - The script is optimized for a specific workflow with TRM Forensic's Blockchain Explorer 'Related IP' data and Notepad++. Adjustments may be needed for other applications or websites.
 
-## Video Walkthrough
-![233303_01022024](https://github.com/maccheroncelli/TRM-TABLE-DATA/assets/154501937/94567e35-94aa-4ec0-85d6-ec771f9c79fc)
-
-
----
