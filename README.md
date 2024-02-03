@@ -62,5 +62,3 @@ Before running the script, ensure Notepad++ is open with a blank document focuse
 ## Notes
 
 - Ensure a blank document is open in Notepad++ and in focus before starting the script.
-- The script is optimized for a specific workflow with TRM Forensic's Blockchain Explorer 'Related IP' data and Notepad++. Adjustments may be needed for other applications or websites.
-
